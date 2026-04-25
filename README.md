@@ -106,7 +106,7 @@ https://github.com/shaurya174/sql-practice/blob/main/04_groupby_aggregation_anal
 HAVING filters grouped data after aggregation, which is useful for reporting.
 
 **File Link:**
-https://github.com/shaurya174/sql-practice/blob/main/05_having_and_sorting.sql
+https://github.com/shaurya174/sql-practice/blob/main/05_having_groupby_analysis.sql
 
 ---
 
@@ -177,7 +177,7 @@ https://github.com/shaurya174/sql-practice/blob/main/08_sql_string_functions.sql
 CASE statements add business logic directly into SQL queries.
 
 **File Link:**
-https://github.com/shaurya174/sql-practice/blob/main/09_sql_case_when.sql
+https://github.com/shaurya174/sql-practice/blob/main/09_sql_case_when_segmentation.sql
 
 ---
 
