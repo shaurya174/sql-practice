@@ -89,7 +89,7 @@ https://github.com/shaurya174/sql-practice/blob/main/03_where_filtering_basics.s
 Aggregation transforms raw transactional data into business insights.
 
 **File Link:**
-https://github.com/shaurya174/sql-practice/blob/main/04_groupby_aggregation.sql
+https://github.com/shaurya174/sql-practice/blob/main/04_groupby_aggregation_analysis.sql
 
 ---
 
