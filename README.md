@@ -53,7 +53,7 @@ https://github.com/shaurya174/sql-practice/blob/main/01_schema_setup.sql
 Basic retrieval operations are the foundation of querying and data transformation.
 
 **File Link:**
-https://github.com/shaurya174/sql-practice/blob/main/02_basic_data_retrieval.sql
+https://github.com/shaurya174/sql-practice/blob/main/02_select_queries_basics.sql
 
 ---
 
